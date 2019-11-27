@@ -1,5 +1,5 @@
-- Install [https://www.qemu.org/](qemu).
-- Install [https://github.com/intel/haxm](Intel® Hardware Accelerated Execution Manager \(Intel® HAXM\)).
-- Install the [https://openvpn.net](OpenVPN) tap drivers.
+- Install [qemu](https://www.qemu.org/).
+- Install [Intel® Hardware Accelerated Execution Manager (Intel® HAXM)](https://github.com/intel/haxm).
+- Install the [OpenVPN](https://openvpn.net) tap drivers.
 - Bridge the TAP and a NIC with internet access.
 - Use `openbsd.bat` as a base to start your VM.
